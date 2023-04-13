@@ -7,13 +7,9 @@ Este es un modelo entidad-relacion basado en el modelo de negocio de henry
 
 Un alumno cursa una cohorte, una cohorte tiene un instructor y esa cohorte pertenece a una carrera.
 
-<p align="center">
-<img src="./Diagrama_henry.jpg"  height=300>
-</p>
-  
 Pasamos esto a SQL server con este script [ETL a Datos de las Plataformas](https://github.com/Marcostamal/Modelo_Henry/blob/main/Entidades.sql)
 y obtenemos el siguiente diagrama. 
   
 <p align="center">
-<img src="./Diagrama_henry.jpg"  height=300>
+<img src="https://github.com/Marcostamal/Modelo_Henry/blob/main/Diagrama_henry.png"  height=300>
 </p>
