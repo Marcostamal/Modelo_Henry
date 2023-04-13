@@ -1,4 +1,4 @@
-# <h1 align=center> Diagrama entidad-relacion basado en Henry ML_ops <h/>
+# <h1 align=center> Diagrama entidad-relacion basado en Henry <h/>
 
 Este es un modelo entidad-relacion basado en el modelo de negocio de henry
 <p align="center">
