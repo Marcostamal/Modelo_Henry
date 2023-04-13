@@ -10,3 +10,10 @@ Un alumno cursa una cohorte, una cohorte tiene un instructor y esa cohorte perte
 <p align="center">
 <img src="./Diagrama_henry.jpg"  height=300>
 </p>
+  
+Pasamos esto a SQL server con este script [ETL a Datos de las Plataformas](https://github.com/Marcostamal/Modelo_Henry/blob/main/Entidades.sql)
+y obtenemos el siguiente diagrama. 
+  
+<p align="center">
+<img src="./Diagrama_henry.jpg"  height=300>
+</p>
